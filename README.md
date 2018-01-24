@@ -1,8 +1,8 @@
 # Matt Hilligoss's GitHub Portfolio
 
-###_Under Construction_
+## _Under Construction_
 
-####About me
+## About me
 
 Some text here
 
@@ -12,6 +12,6 @@ Some text here
 
 [Android Project 1()]
 
-  This is an app that
+* This is an app that
   
-  *Something else ...
+* Something else ...
